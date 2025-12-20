@@ -1,0 +1,7 @@
+How to Run the Code:
+
+Download the dataset from Kaggle: https://www.kaggle.com/datasets/raymondtoo/the-world-university-rankings-2016-2024 The World University Rankings (2016–2024)
+Unzip the downloaded file to obtain the CSV file.
+Save the CSV file to your Desktop or Google Drive (Google Drive is recommended if using Google Colab). 4.Update the file path in the code to point to the location of the CSV file.
+Run the code to reproduce the analysis.
+Make sure to have all Python packages downloaded
